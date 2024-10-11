@@ -1,13 +1,34 @@
 # Projects
 
+<style>
+@import './css/projects.css';
+</style>
+
 Here you can find some of the projects I have worked on.
 
-## [VideoPlayer](./videoPlayer.html)
+<div class="project-card">
+  <h2 class="project-card-title">VideoPlayer</h2>
+  <a class="project-card-learn-more" href="./videoPlayer.html">Learn more!</a>
 
-![VideoPlayer](/assets/vp-4.png ){ width=350 }
-* NextJS
+  <img class="project-card-img" src="/assets/vp-4.png" />
 
-
+  <div class="tech-section">
+    <h4 class="tech-title">
+      TECH
+    </h4>
+    <p class="tech-technology">
+      NextJS
+    </p>
+    <p class="tech-technology">
+      tRCP
+    </p>
+    <div class="tech-button-container">
+      <a class="tech-button" href="https://codesandbox.io/p/github/CosmeValera/video-player-nextjs/main?import=true">
+        LIVE DEMO
+      </a>
+    </div>
+  </div>
+</div>
 
 ## [InfoCountries](./infoCountries.html)
 
@@ -37,10 +58,3 @@ Here you can find some of the projects I have worked on.
 
 ![xml2.png](/assets/xml2.png){ width=200 }
 * Android view binding
-
-
-
-
-
-
-
