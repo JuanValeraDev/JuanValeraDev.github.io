@@ -40,16 +40,22 @@
   text-align: center;
 }
 
+.tech-technology-container {
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  font-family: Andika;
+  gap: 1rem;
+  margin: 8px 0 8px;
+}
+
 .tech-technology {
+  background-color: #454545;
+  border-radius: 9999px;
   font-size: 1.25rem;
-  color: #e0e0e0;
-  background-color: #282828;
-  padding: 8px 12px;
-  border-radius: 4px;
-  margin: 0;
-  transition: background-color 0.3s ease;
+  color: #fff;
+  padding: 0.6rem 1rem;
   cursor: default;
-  text-align: left;
 }
 
 .tech-technology:hover {

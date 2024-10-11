@@ -15,12 +15,18 @@ Here you can find some of the projects I have worked on.
     <h4 class="tech-title">
       TECH
     </h4>
-    <p class="tech-technology">
-      NextJS
-    </p>
-    <p class="tech-technology">
-      tRCP
-    </p>
+    <div class="tech-technology-container">
+      <p class="tech-technology">
+        React
+      </p>
+      <p class="tech-technology">
+        NextJS
+      </p>
+      <p class="tech-technology">
+        tRCP
+      </p>
+    </div>
+    <hr />
     <div class="tech-button-container">
       <a class="tech-button" href="https://codesandbox.io/p/github/CosmeValera/video-player-nextjs/main?import=true">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link mr-2 h-4 w-4" data-id="21"><path d="M15 3h6v6"></path><path d="M10 14 21 3"></path><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path></svg>
