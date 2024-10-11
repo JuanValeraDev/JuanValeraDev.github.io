@@ -19,5 +19,8 @@ export default defineConfig({
     footer: {
       message: 'Made with ❤️ by JuanValeraDev',
     }
-  }
+  },
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/portfolio/assets/favicon.png' }]
+  ]
 })
