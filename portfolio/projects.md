@@ -89,7 +89,7 @@ Here you can find some of the projects I have worked on.
 <div class="project-card">
   <h2 class="project-card-title">InfoCountries React Native</h2>
 
-  <img class="project-card-img" src="/assets/RN_home.png" width="200"/>
+  <img class="project-card-img" src="/assets/RN_home.png" width="260"/>
 
   <div class="tech-section">
     <h4 class="tech-title">
@@ -170,7 +170,7 @@ Here you can find some of the projects I have worked on.
 <div class="project-card">
   <h2 class="project-card-title">EduManage</h2>
 
-  <img class="project-card-img" src="/assets/edu4.png" width="200" />
+  <img class="project-card-img" src="/assets/edu4.png" width="260" />
 
   <div class="tech-section">
     <h4 class="tech-title">
@@ -200,7 +200,7 @@ Here you can find some of the projects I have worked on.
 <div class="project-card">
   <h2 class="project-card-title">EduManage XML</h2>
 
-  <img class="project-card-img" src="/assets/xml2.png" width="200" />
+  <img class="project-card-img" src="/assets/xml2.png" width="260" />
 
   <div class="tech-section">
     <h4 class="tech-title">
