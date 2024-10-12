@@ -2,4 +2,4 @@
 
 [Download PDF](CV_JuanValera.pdf)
 
-![CV_JuanValera.jpg](/assets/CV_JuanValera.jpg)
+![CV_JuanValera.jpg](/assets/CV_JuanValera.png)

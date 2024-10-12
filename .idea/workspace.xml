@@ -4,7 +4,108 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="" />
+    <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/CV_JuanValera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/CV_JuanValera.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/README.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/about-me.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/api-examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/CV_JuanValera.BvU7Hvqe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/InfoCountries_1.C0gIpmyH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/InfoCountries_2.DjsFSBP7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/InfoCountries_3.BW1VcplO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/InfoCountries_4.CqCmxh9V.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/InfoCountries_5.C7MFaX_I.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/InfoCountries_6.BXWOg4sV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/Infocountries_home.BY4rX6Zl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/Infocountries_home_2.DbOP-lCG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/README.md.BQ6p_DIL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/README.md.BQ6p_DIL.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/RN_home.2sTxPSt8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/RN_menu.JvGkCTvr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/about-me.md.t3S5X_uK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/about-me.md.t3S5X_uK.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/api-examples.md.DGFapElx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/api-examples.md.DGFapElx.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/app.CUSt8Tfc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/berlin_auditory.B7X9aJjC.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/chunks/edu4.-TwU3ho5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/chunks/framework.DX7EX5Ix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/chunks/theme.D2mg4byp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/chunks/xml2.DHro6_s6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/edu1.CzCMnmXk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/edu2.CGILVMcs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/edu3.D835JduL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/edu4.BVa8s_SG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/edu5.DfOpfzcm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/edu6.CQvOd70k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/edu7.6TRTOd0p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/eduManageJetpackCompose.md.CzAnd9SC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/eduManageJetpackCompose.md.CzAnd9SC.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/eduManageXML.md.3P6T-Na9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/eduManageXML.md.3P6T-Na9.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/index.md.DDreITLy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/index.md.DDreITLy.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/infoCountries.md.yguqVpTZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/infoCountries.md.yguqVpTZ.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/infoCountriesReactNative.md.DU48v4EQ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/infoCountriesReactNative.md.DU48v4EQ.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/markdown-examples.md.CTELPrrm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/markdown-examples.md.CTELPrrm.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/ph_1.D_DCfkEY.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/ph_2.Dsg6O-6T.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/ph_3.BZuzZu9v.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/ph_4.rSBu4OJ1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/ph_5.CSHoJL1h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/ph_6.CHV4pwEd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/podHouse.md.CWDFheM1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/podHouse.md.CWDFheM1.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/podhouse_4.DuaxA2Pp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/podhouse_5.BDhkirsu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/projects.md._EZjsYqV.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/projects.md._EZjsYqV.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/resume.md.SYj8jkul.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/resume.md.SYj8jkul.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/rn_1.wZRCFk3K.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/rn_2.0PN2D9i4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/rn_3.m5muG3jx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/rn_5.-gO8Cwu3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/rn_6.B_QIsCnz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/rn_7.2U4F8O1I.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/style.Dx-ypW0O.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/videoPlayer.md.C-YhX0AS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/videoPlayer.md.C-YhX0AS.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-1.BUAFAMO8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-2.Diln1oZ0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-3.QJboHgrh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-4.BL8UCD5Q.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-5.BwbOgdAX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-6.BDbCT6m_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-7.BcUjpQGw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-8.DAqvLLmr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/xml1.DWd0oiaE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/xml2.zb28EXZn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/xml3.CUaUgBQ_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/xml4.CH3C77g9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/xml5.gXG791Ys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/xml6.D2Hg5S5_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/eduManageJetpackCompose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/eduManageXML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/hashmap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/infoCountries.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/infoCountriesReactNative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/markdown-examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/podHouse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/resume.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/videoPlayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/CV_JuanValera.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/resume.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +179,7 @@
       <updated>1727885210378</updated>
       <workItem from="1727885212910" duration="5360000" />
       <workItem from="1727891313821" duration="738000" />
-      <workItem from="1728747700460" duration="3501000" />
+      <workItem from="1728747700460" duration="4022000" />
     </task>
     <servers />
   </component>
