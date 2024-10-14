@@ -3,7 +3,6 @@
 
 This is the version of the InfoCountries project for mobile devices. It is made with React Native and Expo.
 
-Check it out in <a href="https://github.com/VictorGlvez/InfoCountriesReactNative" target="_blank">GitHub</a>!
 
 <div class="grid">
     <div >

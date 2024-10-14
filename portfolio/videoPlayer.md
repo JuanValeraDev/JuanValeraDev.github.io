@@ -7,7 +7,6 @@ manages the state of likes and watches for each video, uses the App Router for n
 between pages through the URL. It also supports light and dark modes and displays loading skeletons while data is being
 fetched.
 
-Check it out in <a href="https://github.com/JuanValeraDev/video-player-nextjs" target="_blank">GitHub</a>!
 
 <div class="grid">
     <div >

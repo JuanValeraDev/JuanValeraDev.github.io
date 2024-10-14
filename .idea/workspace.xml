@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="" />
+    <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/infoCountries.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/infoCountries.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/infoCountriesReactNative.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/infoCountriesReactNative.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/podHouse.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/podHouse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/videoPlayer.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/videoPlayer.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +46,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/juanvalera/GitHubRepos/Porfolio/JuanValeraDev.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/juanvalera/GitHubRepos/Porfolio/JuanValeraDev.github.io/portfolio/assets&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,10 +58,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/assets" />
+      <recent name="$PROJECT_DIR$/portfolio/public" />
       <recent name="$PROJECT_DIR$/docs/.vitepress/theme" />
       <recent name="$PROJECT_DIR$/docs/public" />
       <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/docs/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio/public" />
@@ -80,7 +88,8 @@
       <updated>1727885210378</updated>
       <workItem from="1727885212910" duration="5360000" />
       <workItem from="1727891313821" duration="738000" />
-      <workItem from="1728747700460" duration="4198000" />
+      <workItem from="1728747700460" duration="4340000" />
+      <workItem from="1728895227018" duration="882000" />
     </task>
     <servers />
   </component>
