@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/@theme_index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/@theme_index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/chunk-G72U4FD7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/chunk-G72U4FD7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/chunk-IGSYXQ5U.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/chunk-IGSYXQ5U.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vue_devtools-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vue_devtools-api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vue_devtools-api.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vue_devtools-api.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vueuse_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vueuse_core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vueuse_core.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vueuse_core.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/projects.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
