@@ -6,7 +6,26 @@
 
 Here you can find some of the projects I have worked on.
 
-<div >
+
+<div class="max-w-2xl mx-auto p-6 bg-white dark:bg-gray-800 rounded-lg shadow-md transition-shadow hover:shadow-lg text-center">
+  <h2 class="text-3xl font-bold mb-4 text-gray-800 dark:text-white">VideoPlayer</h2>
+
+  <div class="relative aspect-video mb-6 overflow-hidden rounded-lg">
+    <img src="/assets/vp-4.png" alt="Awesome Project" class="object-contain w-full h-full transition-transform duration-300 hover:scale-105">
+  </div>
+
+  <div class="flex flex-wrap justify-center gap-2 mb-6">
+    <span class="px-3 py-1 text-sm font-medium bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full">React</span>
+    <span class="px-3 py-1 text-sm font-medium bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full">NextJS</span>
+    <span class="px-3 py-1 text-sm font-medium bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full">tRPC</span>
+  </div>
+
+  <div class="flex flex-wrap justify-center gap-4">
+    <a href="https://awesome-project.com" class="px-6 py-2 text-sm font-medium text-white bg-gray-600 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors duration-300">View Project</a>
+    <a href="https://github.com/yourusername/awesome-project" class="px-6 py-2 text-sm font-medium text-white bg-gray-600 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors duration-300">GitHub</a>
+  </div>
+</div>
+<div>
   <h2 class="project-card-title">VideoPlayer</h2>
   <img class="project-card-img" src="/assets/vp-4.png" />
 
