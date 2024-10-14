@@ -2,3 +2,4 @@
 portfolio/.vitepress/cache/*
 portfolio/.vitepress/dist/*
 pnpm-lock.yaml
+package-lock.json

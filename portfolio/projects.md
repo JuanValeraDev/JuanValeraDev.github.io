@@ -6,8 +6,9 @@
 
 Here you can find some of the projects I have worked on.
 
-<div class="project-card">
+<div class="project-card ">
   <h2 class="project-card-title">VideoPlayer</h2>
+<div class="bg-blue-500 text-white p-4 rounded-lg">Prueba</div>
 
   <img class="project-card-img" src="/assets/vp-4.png" />
 
