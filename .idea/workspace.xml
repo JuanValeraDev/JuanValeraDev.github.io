@@ -6,7 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/css/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/output.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps_temp_c590e455/chunk-IGSYXQ5U.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps_temp_c590e455/chunk-IGSYXQ5U.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps_temp_c590e455/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps_temp_c590e455/vitepress___@vue_devtools-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps_temp_c590e455/vitepress___@vue_devtools-api.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps_temp_c590e455/vitepress___@vueuse_core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps_temp_c590e455/vitepress___@vueuse_core.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps_temp_c590e455/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps_temp_c590e455/vue.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/projects.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +97,7 @@
       <workItem from="1728747700460" duration="4340000" />
       <workItem from="1728895227018" duration="3362000" />
       <workItem from="1728979698207" duration="7058000" />
-      <workItem from="1729001194459" duration="13414000" />
+      <workItem from="1729001194459" duration="14641000" />
     </task>
     <servers />
   </component>

@@ -7,9 +7,9 @@
 <div class="mx-auto pb-6 bg-zinc-200 dark:bg-zinc-800 rounded-lg shadow-md text-center my-12 justify-center">
   <p class="text-3xl pt-6 font-bold mb-6 text-gray-800 dark:text-white ">Video Player</p>
 
- <div class="max-w-2xl  overflow-hidden rounded-lg group flex justify-center items-center mb-6 mx-auto">
+  <div class="max-w-2xl relative overflow-hidden rounded-lg group flex justify-center items-center mb-6 mx-auto">
   <a href="videoPlayer.html" class="block">
-    <img src="/assets/vp-4.png" alt="Video Player" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
+    <img src="/assets/vp-4.png" alt="InfoCountries" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
     <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
       <span class="text-black dark:text-white text-3xl font-bold flex items-center">
         Learn more
