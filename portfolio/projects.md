@@ -1,35 +1,35 @@
-# Projects
+
 
 <style>
 @import './css/projects.css';
 </style>
 
-Here you can find some of the projects I have worked on.
+<h1 class="mb-6 pb-6 ">Projects</h1>
 
-<div class="p-4 rounded-lg bg-blue-700 mb-4 dark:bg-gray-700 ">
-<h1 >Hi world!</h1>
-</div>
+<div class=" mx-auto pb-6 bg-zinc-200 dark:bg-zinc-800 rounded-lg shadow-md  text-center">
+  <p class="text-3xl pt-6 font-bold mb-4 text-gray-800 dark:text-white">Video Player</p>
 
-
-<div class="max-w-2xl mx-auto p-6 bg-gray-100 dark:bg-gray-700 rounded-lg shadow-md transition-shadow hover:shadow-lg text-center">
-  <h2 class="text-3xl font-bold mb-4 text-gray-800 dark:text-white">VideoPlayer</h2>
-
-  <div class="relative aspect-video mb-6 overflow-hidden rounded-lg">
-    <img src="/assets/vp-4.png" alt="Awesome Project" class="object-contain w-full h-full transition-transform duration-300 hover:scale-105">
+  <div class="max-w-2xl relative m-6 mb-6 overflow-hidden rounded-lg">
+    <img src="/assets/vp-4.png" alt="Video Player" class="object-contain w-full h-full transition-transform duration-300 hover:scale-105  hover:shadow-sm">
   </div>
 
   <div class="flex flex-wrap justify-center gap-2 mb-6">
-    <span class="px-3 py-1 text-sm font-medium bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full">React</span>
-    <span class="px-3 py-1 text-sm font-medium bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full">NextJS</span>
-    <span class="px-3 py-1 text-sm font-medium bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full">tRPC</span>
+    <span class="px-3 py-1 text-sm font-medium bg-zinc-100 dark:bg-zinc-700 text-gray-800 dark:text-gray-200 rounded-full">React</span>
+    <span class="px-3 py-1 text-sm font-medium bg-zinc-100 dark:bg-zinc-700 text-gray-800 dark:text-gray-200 rounded-full">NextJS</span>
+    <span class="px-3 py-1 text-sm font-medium bg-zinc-100 dark:bg-zinc-700 text-gray-800 dark:text-gray-200 rounded-full">tRPC</span>
   </div>
 
   <div class="flex flex-wrap justify-center gap-4">
-    <a href="https://awesome-project.com" class="px-6 py-2 text-sm font-medium text-white bg-gray-600 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors duration-300">View Project</a>
-    <a href="https://github.com/yourusername/awesome-project" class="px-6 py-2 text-sm font-medium text-white bg-gray-600 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors duration-300">GitHub</a>
+    <a href="https://codesandbox.io/p/github/JuanValeraDev/video-player-nextjs/main?import=true" class="px-6 py-2 text-sm  font-medium bg-zinc-400/50 hover:bg-zinc-400 dark:bg-zinc-500/50 dark:hover:bg-zinc-500 rounded-lg  focus:ring-2  focus:ring-offset-2 transition-colors duration-400 anchor" target="_blank"><span class="anchor dark:text-gray-100">SandBox</span></a>
+    <a href="https://github.com/JuanValeraDev/video-player-nextjs" class="px-6 py-2 text-sm  font-medium bg-zinc-400/50 hover:bg-zinc-400 dark:bg-zinc-500/50 dark:hover:bg-zinc-500 rounded-lg  focus:ring-2  focus:ring-offset-2 transition-colors duration-400 anchor" target="_blank"><span class="anchor dark:text-gray-100">GitHub</span></a>
   </div>
 </div>
+
+
+
 <div>
+
+
   <h2 class="project-card-title">VideoPlayer</h2>
   <img class="project-card-img" src="/assets/vp-4.png" />
 

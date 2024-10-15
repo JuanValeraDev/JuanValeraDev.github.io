@@ -225,3 +225,8 @@
 .carousel-slide {
     animation: fadeIn 0.5s ease-in-out;
 }
+
+.anchor{
+    text-decoration: none !important;
+    color: rgba(0, 0, 0, 0.85);!important;
+}

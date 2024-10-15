@@ -22,6 +22,18 @@ hero:
 
 ### Who am I?
 
+<!--
+    TODO: 
+    -   Hacer nuevas fotos de los proyectos, que se vean mejor y que tengan todas las mismas dimensiones (carrusel)
+    -   Añadir proyecto Dashboard NextJS
+    -   Añadir proyecto web exercises
+    -   Dar estilo a las páginas de proyecto 
+    -   Dar estilo a la página projects
+    -   Dar estilo a la página about-me
+    -   Dar estilo al index
+    -   Hacerme fotos y poner un carrusel tipo "Avengers" en el index y/o en el about-me
+
+-->
 Hi, I'm Juan, a passionate full stack software developer. My focus is on creating web apps with React, Next.js and
 Vercel. I love creating innovative solutions and collaborating with teams. Over the years, I've gained valuable
 experience working with diverse groups, enhancing both my technical and interpersonal skills.
