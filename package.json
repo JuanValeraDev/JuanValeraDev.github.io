@@ -7,5 +7,8 @@
     "dev": "vitepress dev portfolio",
     "build": "vitepress build portfolio",
     "preview": "vitepress preview portfolio"
+  },
+  "dependencies": {
+    "tailwindcss-animate": "^1.0.7"
   }
 }

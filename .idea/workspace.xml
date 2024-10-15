@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/public/scripts/carousel-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JuanValeraDev.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JuanValeraDev.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vue_devtools-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vue_devtools-api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vue_devtools-api.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vue_devtools-api.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vueuse_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vueuse_core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vueuse_core.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vitepress___@vueuse_core.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/theme/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/theme/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/input.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/input.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/css/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/output.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/infoCountries.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/infoCountries.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/projects.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
@@ -46,21 +49,21 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/juanvalera/GitHubRepos/Porfolio/JuanValeraDev.github.io/portfolio/assets",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/Users/juanvalera/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/juanvalera/GitHubRepos/Porfolio/JuanValeraDev.github.io/portfolio/assets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/juanvalera/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio/assets" />
@@ -95,6 +98,7 @@
       <workItem from="1727891313821" duration="738000" />
       <workItem from="1728747700460" duration="4340000" />
       <workItem from="1728895227018" duration="3362000" />
+      <workItem from="1728979698207" duration="6983000" />
     </task>
     <servers />
   </component>

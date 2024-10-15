@@ -6,8 +6,12 @@
 
 Here you can find some of the projects I have worked on.
 
+<div class="p-4 rounded-lg bg-blue-700 mb-4 dark:bg-gray-700 ">
+<h1 >Hi world!</h1>
+</div>
 
-<div class="max-w-2xl mx-auto p-6 bg-white dark:bg-gray-800 rounded-lg shadow-md transition-shadow hover:shadow-lg text-center">
+
+<div class="max-w-2xl mx-auto p-6 bg-gray-100 dark:bg-gray-700 rounded-lg shadow-md transition-shadow hover:shadow-lg text-center">
   <h2 class="text-3xl font-bold mb-4 text-gray-800 dark:text-white">VideoPlayer</h2>
 
   <div class="relative aspect-video mb-6 overflow-hidden rounded-lg">
