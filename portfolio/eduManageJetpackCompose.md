@@ -8,23 +8,18 @@ persistence and Firebase for cloud storage. The application also features prefer
 settings. Advanced features include result filtering, index creation in databases, and the use of design patterns such
 as Singleton and Dependency Injection.
 
-<div class="grid">
-    <div >
-        <img src="/assets/edu2.png" alt="EduManageJetpackCompose">
+
+  <div class="carousel-container">
+        <div class="carousel-slides">
+        <img class="carousel-slide" src="/assets/edu2.png" alt="EduManageJetpackCompose">
+        <img class="carousel-slide" src="/assets/edu3.png" alt="EduManageJetpackCompose">
+        <img class="carousel-slide" src="/assets/edu4.png" alt="EduManageJetpackCompose">
+        <img class="carousel-slide" src="/assets/edu5.png" alt="EduManageJetpackCompose">
+        <img class="carousel-slide" src="/assets/edu6.png" alt="EduManageJetpackCompose">
+        <img class="carousel-slide" src="/assets/edu7.png" alt="EduManageJetpackCompose">
+        </div>
+        <button class="carousel-btn carousel-btn-prev">&lt;</button>
+        <button class="carousel-btn carousel-btn-next">&gt;</button>
+        <div class="carousel-indicators"></div>
     </div>
-    <div >
-        <img src="/assets/edu3.png" alt="EduManageJetpackCompose">
-    </div>
-    <div >
-        <img src="/assets/edu4.png" alt="EduManageJetpackCompose">
-    </div>
-    <div >
-        <img src="/assets/edu5.png" alt="EduManageJetpackCompose">
-    </div>
-    <div >
-        <img src="/assets/edu6.png" alt="EduManageJetpackCompose">
-    </div>
-    <div >
-        <img src="/assets/edu7.png" alt="EduManageJetpackCompose">
-    </div>
-</div>
+
