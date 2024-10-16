@@ -5,11 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/vp_picture_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/vp_picture_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/vp_picture_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/vp_picture_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/vp_picture_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/vp_picture_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/vp_picture_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/vp_picture_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/vp_picture_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/eduManageJetpackCompose.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/eduManageJetpackCompose.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/eduManageXML.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/eduManageXML.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/infoCountriesReactNative.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/infoCountriesReactNative.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/podHouse.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/podHouse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/vp-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/vp-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/vp-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/vp-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/vp-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/vp-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/vp-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/vp-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/projects.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/videoPlayer.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/videoPlayer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +80,8 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/portfolio/public" />
       <recent name="$PROJECT_DIR$/portfolio/assets" />
+      <recent name="$PROJECT_DIR$/portfolio/public" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/assets" />
     </key>
@@ -92,7 +106,8 @@
       <workItem from="1728747700460" duration="4340000" />
       <workItem from="1728895227018" duration="3362000" />
       <workItem from="1728979698207" duration="7058000" />
-      <workItem from="1729001194459" duration="15765000" />
+      <workItem from="1729001194459" duration="15898000" />
+      <workItem from="1729066125641" duration="1616000" />
     </task>
     <servers />
   </component>

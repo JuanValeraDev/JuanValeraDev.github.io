@@ -1,4 +1,4 @@
-![VideoPlayer](/assets/vp-1.png )
+![VideoPlayer](/assets/vp_picture_2.png )
 
 This project is an exercise to practice Next.js, utilizing tRPC for client-server communication and server actions to
 interact with a Supabase database. The application is styled with TailwindCSS and Shadcn, featuring a fully responsive
@@ -9,12 +9,13 @@ fetched.
 
   <div class="carousel-container">
         <div class="carousel-slides">
-        <img class="carousel-slide" src="/assets/vp-2.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp-3.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp-5.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp-6.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp-7.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp-8.png" alt="VideoPlayer">
+        <img class="carousel-slide" src="/assets/vp_picture_1.png" alt="VideoPlayer">
+        <img class="carousel-slide" src="/assets/vp_picture_4.png" alt="VideoPlayer">
+        <img class="carousel-slide" src="/assets/vp_picture_5.png" alt="VideoPlayer">
+        <img class="carousel-slide" src="/assets/vp_picture_6.png" alt="VideoPlayer">
+        <img class="carousel-slide" src="/assets/vp_picture_7.png" alt="VideoPlayer">
+        <img class="carousel-slide" src="/assets/vp_picture_8.png" alt="VideoPlayer">
+        <img class="carousel-slide" src="/assets/vp_picture_9.png" alt="VideoPlayer">
         </div>
         <button class="carousel-btn carousel-btn-prev">&lt;</button>
         <button class="carousel-btn carousel-btn-next">&gt;</button>
