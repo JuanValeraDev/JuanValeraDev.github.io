@@ -1,6 +1,3 @@
-<style>
-@import './css/projects.css';
-</style>
 
 <h1 class="mb-6 pb-6 ">Projects</h1>
 

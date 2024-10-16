@@ -10,13 +10,14 @@ fetched.
 
   <div class="carousel-container">
         <div class="carousel-slides">
-        <img class="carousel-slide" src="/assets/vp_picture_1.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp_picture_4.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp_picture_5.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp_picture_6.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp_picture_7.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp_picture_8.png" alt="VideoPlayer">
-        <img class="carousel-slide" src="/assets/vp_picture_9.png" alt="VideoPlayer">
+        <img class="carousel-slide dark:hidden" src="/assets/vp_picture_1.png" alt="VideoPlayer">
+        <img class="carousel-slide dark:hidden" src="/assets/vp_picture_4.png" alt="VideoPlayer">
+        <img class="carousel-slide dark:hidden" src="/assets/vp_picture_5.png" alt="VideoPlayer">
+        <img class="carousel-slide dark:hidden" src="/assets/vp_picture_5.png" alt="VideoPlayer">
+        <img class="carousel-slide dark:hidden" src="/assets/vp_picture_5.png" alt="VideoPlayer">
+        <img class="carousel-slide hidden dark:block" src="/assets/vp_picture_6.png" alt="VideoPlayer">
+        <img class="carousel-slide  hidden dark:block" src="/assets/vp_picture_9.png" alt="VideoPlayer">
+        <img class="carousel-slide  hidden dark:block" src="/assets/vp_picture_9.png" alt="VideoPlayer">
         </div>
         <button class="carousel-btn carousel-btn-prev">&lt;</button>
         <button class="carousel-btn carousel-btn-next">&gt;</button>
