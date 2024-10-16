@@ -8,7 +8,7 @@ comparation between two countries and play a quiz about countries.
 This project is made with React, Bootstrap, Express and API consumption, like chatgpt 3.5 turbo, restcountries or
 pexels. 
 
-  <div class="carousel-container">
+  <div class="carousel-container dark:hidden">
         <div class="carousel-slides">
         <img class="carousel-slide" src="/assets/InfoCountries_1.png" alt="InfoCountries">
         <img class="carousel-slide" src="/assets/InfoCountries_2.png" alt="InfoCountries">
