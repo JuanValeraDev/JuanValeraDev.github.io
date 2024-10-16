@@ -9,7 +9,7 @@ Thank you for taking the time to learn more about me. I look forward to the poss
 innovative solutions together. Feel free to explore the rest of my portfolio to see some of the projects I have worked
 on and the skills I bring to the table.
 
-<img src="/assets/berlin_auditory.jpg" alt="selfie in Berlin Auditory">
+<img src="/assets/portrait.png" alt="selfie in Berlin Auditory">
 
 <br>
 

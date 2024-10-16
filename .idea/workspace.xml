@@ -5,39 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/.vitepress/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/public/Juan_Valera.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/README.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/README.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/about-me.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-1.BUAFAMO8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-2.Diln1oZ0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-3.QJboHgrh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-4.BL8UCD5Q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-5.BwbOgdAX.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-6.BDbCT6m_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-7.BcUjpQGw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/assets/vp-8.DAqvLLmr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/eduManageJetpackCompose.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/eduManageJetpackCompose.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/eduManageXML.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/eduManageXML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/hashmap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/cache/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/config.mts" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/config.mts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/infoCountries.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/infoCountries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/infoCountriesReactNative.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/infoCountriesReactNative.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/markdown-examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/markdown-examples.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/podHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/podHouse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/dist/videoPlayer.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/dist/videoPlayer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/css/projects.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/about-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/about-me.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/projects.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/public/scripts/carousel-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/scripts/carousel-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/public/portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/assets/portrait.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/videoPlayer.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/videoPlayer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,6 +81,7 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/portfolio/assets" />
       <recent name="$PROJECT_DIR$/portfolio/public" />
       <recent name="$PROJECT_DIR$/docs" />
@@ -116,6 +110,7 @@
       <workItem from="1728979698207" duration="7058000" />
       <workItem from="1729001194459" duration="15898000" />
       <workItem from="1729066125641" duration="1616000" />
+      <workItem from="1729088347959" duration="2585000" />
     </task>
     <servers />
   </component>

@@ -6,8 +6,8 @@
 
   <div class="max-w-2xl relative overflow-hidden rounded-lg group flex justify-center items-center mb-6 mx-auto">
   <a href="videoPlayer.html" class="block">
-  <img src="/assets/vp_picture_3.png" alt="InfoCountries" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50 dark:hidden">
-    <img src="/assets/vp_picture_2.png" alt="InfoCountries" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50 hidden dark:block">
+  <img src="/assets/vp_picture_8.png" alt="InfoCountries" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50 dark:hidden">
+    <img src="/assets/vp_picture_7.png" alt="InfoCountries" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50 hidden dark:block">
       <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
       <span class="text-black dark:text-white text-3xl font-bold flex items-center">
         Learn more

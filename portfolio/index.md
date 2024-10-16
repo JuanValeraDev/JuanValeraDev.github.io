@@ -7,16 +7,16 @@ hero:
   tagline: "React Developer"
   actions:
     - theme: brand
-      text: About me
-      link: /about-me
-    - theme: alt
       text: Projects
       link: /projects
+    - theme: alt
+      text: About me
+      link: /about-me
     - theme: alt
       text: Resume
       link: /resume
   image:
-    src: /portrait.png
+    src: /Juan_Valera.png
     alt: JuanValeraDev
 ---
 
@@ -24,6 +24,7 @@ hero:
 
 <!--
     TODO: 
+    -   Poner la opción de cambiar de idioma
     -   Hacer nuevas fotos de los proyectos, que se vean mejor y que tengan todas las mismas dimensiones (carrusel)
     -   Añadir proyecto Dashboard NextJS
     -   Añadir proyecto web exercises

@@ -9,6 +9,7 @@
     "preview": "vitepress preview portfolio"
   },
   "dependencies": {
+    "@vuepress/client": "^2.0.0-rc.2",
     "tailwindcss-animate": "^1.0.7"
   }
 }
