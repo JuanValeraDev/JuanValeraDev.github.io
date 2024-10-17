@@ -1,4 +1,4 @@
-<img src= "/assets/CV_JuanValera.png" class="mx-auto max-w-md mb-6" alt="CV Juan Valera">
+<img src= "/assets/CV_JuanValera.png" class="mx-auto  mb-6" alt="CV Juan Valera">
 
 [Download PDF](CV_JuanValera.pdf)
 
@@ -66,4 +66,4 @@ export default {
     }
 }
 ```
-<img src="/assets/portrait.png" alt="Juan Valera Reales" class="max-w-sm mx-auto mt-6">
+<img src="/assets/portrait.png" alt="Juan Valera Reales" class=" mx-auto mt-6">
