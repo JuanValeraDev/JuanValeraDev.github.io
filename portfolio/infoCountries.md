@@ -1,5 +1,5 @@
 
-<img src= "/assets/Infocountries_home.png" class="mx-auto max-w-lg" alt="Infocountries">
+<img src= "/assets/Infocountries_home.png" class="mx-auto rounded-lg" alt="Infocountries">
 
 This is a project made with my partner <a href="https://github.com/VictorGlvez" target="_blank">Víctor Gálvez</a>. It is
 related to countries information. You can search for information about a country, see a gallery of images, make a
