@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/dashboard/dashboard_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/dashboard/dashboard_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/dashboard/dashboard_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/dashboard/dashboard_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/dashboard/dashboard_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/dashboard/dashboard_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/assets/dashboard/dashboard_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/dashboard.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/eduManageJetpackCompose.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/eduManageJetpackCompose.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/eduManageXML.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/eduManageXML.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/infoCountriesReactNative.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/infoCountriesReactNative.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/output.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/resume.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +80,11 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio" />
+      <recent name="$PROJECT_DIR$/portfolio/assets/dashboard" />
       <recent name="$PROJECT_DIR$/portfolio/assets" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/portfolio/public" />
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -102,7 +110,8 @@
       <workItem from="1729001194459" duration="15898000" />
       <workItem from="1729066125641" duration="1616000" />
       <workItem from="1729088347959" duration="9383000" />
-      <workItem from="1729149131048" duration="7767000" />
+      <workItem from="1729149131048" duration="8737000" />
+      <workItem from="1729176290180" duration="2131000" />
     </task>
     <servers />
   </component>

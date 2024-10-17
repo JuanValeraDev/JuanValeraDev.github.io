@@ -53,17 +53,5 @@
     </div> 
 </div>
 
----
 
-```js
-export default {
-    render() {
-        if (wantToWorkWithMe()) {
-            return "Let's connect and create something amazing!"; 
-        } else {
-            return "Thanks for stopping by! I'll be here if you need me.";
-        }
-    }
-}
-```
-<img src="/assets/portrait.png" alt="Juan Valera Reales" class=" mx-auto mt-6">
+<img src="/assets/portrait.png" alt="Juan Valera Reales" class=" mx-auto mt-6 rounded-lg">
