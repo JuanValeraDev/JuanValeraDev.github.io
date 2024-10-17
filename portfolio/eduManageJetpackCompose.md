@@ -1,4 +1,4 @@
-![edu_1.png](/assets/edu1.png){ width=200 }
+<img src= "/assets/edu1.png" class="mx-auto max-h-80 rounded-lg" alt="Infocountries React Native">
 
 EduManage is an Android application developed with Jetpack Compose and Kotlin, designed to manage
 departments, classrooms, and incidents. The application leverages the power of the MVVM architecture, state management,
@@ -9,17 +9,13 @@ settings. Advanced features include result filtering, index creation in database
 as Singleton and Dependency Injection.
 
 
-  <div class="carousel-container">
-        <div class="carousel-slides">
-        <img class="carousel-slide" src="/assets/edu2.png" alt="EduManageJetpackCompose">
-        <img class="carousel-slide" src="/assets/edu3.png" alt="EduManageJetpackCompose">
-        <img class="carousel-slide" src="/assets/edu4.png" alt="EduManageJetpackCompose">
-        <img class="carousel-slide" src="/assets/edu5.png" alt="EduManageJetpackCompose">
-        <img class="carousel-slide" src="/assets/edu6.png" alt="EduManageJetpackCompose">
-        <img class="carousel-slide" src="/assets/edu7.png" alt="EduManageJetpackCompose">
+ <div class="slider mx-auto mt-6 ">
+        <div class="slides">
+            <div>  <img src="/assets/edu7.png" alt="EduManage"></div>
+            <div>  <img src="/assets/edu6.png" alt="EduManage"></div>
+            <div>  <img src="/assets/edu3.png" alt="EduManage"></div>
+            <div>  <img src="/assets/edu4.png" alt="EduManage"></div>
+            <div>  <img src="/assets/edu5.png" alt="EduManage"></div>
         </div>
-        <button class="carousel-btn carousel-btn-prev">&lt;</button>
-        <button class="carousel-btn carousel-btn-next">&gt;</button>
-        <div class="carousel-indicators"></div>
-    </div>
+</div>
 

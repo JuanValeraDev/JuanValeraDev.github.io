@@ -4,14 +4,11 @@ layout: home
 
 hero:
   name: "Dream big\nCode bigger"
-  tagline: "React Developer"
+  tagline: "Full Stack Developer"
   actions:
     - theme: brand
       text: Projects
       link: /projects
-    - theme: alt
-      text: About me
-      link: /about-me
     - theme: alt
       text: Resume
       link: /resume
@@ -24,19 +21,13 @@ hero:
 
 <!--
     TODO: 
+    -   Modificar CV para que la letra sea más grande.
     -   Poner la opción de cambiar de idioma
     -   Hacer nuevas fotos de los proyectos, que se vean mejor y que tengan todas las mismas dimensiones (carrusel)
     -   Añadir proyecto Dashboard NextJS
     -   Añadir proyecto web exercises
-    -   Dar estilo a las páginas de proyecto 
-    -   Dar estilo a la página projects
-    -   Dar estilo a la página about-me
-    -   Dar estilo al index
-    -   Hacerme fotos y poner un carrusel tipo "Avengers" en el index y/o en el about-me
-
 -->
-Hi, I'm Juan, a passionate full stack software developer. My focus is on creating web apps with React, Next.js and
-Vercel. I love creating innovative solutions and collaborating with teams. Over the years, I've gained valuable
+Hi, I'm Juan, a passionate full stack software developer. I love creating innovative solutions and collaborating with teams. Over the years, I've gained valuable
 experience working with diverse groups, enhancing both my technical and interpersonal skills.
 
 I thrive on the challenges of programming and enjoy using creativity to solve complex problems. What excites me most is
@@ -47,7 +38,9 @@ technologies and methodologies, and I look forward to connecting with others who
 
 Thank you for visiting my portfolio. Let's connect!
 
-<span style="font-size: x-large;">
-    <a href="https://www.linkedin.com/in/juan-valera-reales/" target=”_blank”>LinkedIn</a>
-</span>
+<a href="https://www.linkedin.com/in/juan-valera-reales/" target=”_blank”>
+<span class="px-4 py-2 text-sm font-semibold bg-zinc-200 dark:bg-zinc-700 text-gray-800 dark:text-gray-100/75 rounded-full">LinkedIn</span></a>
+
+
+
 

@@ -154,7 +154,7 @@
 
 .slides {
     display: flex;
-    width: 3000px; /* 300px * 5 slides */
+    width: 3000px;
     animation: slide 20s infinite;
 }
 
@@ -189,53 +189,34 @@ html.dark .slides > div {
     80% { transform: translateX(-2400px); }
     95% { transform: translateX(-2400px); }
 }
-.slider-control {
-    position: absolute;
-    bottom: 10px;
-    left: 50%;
-    transform: translateX(-50%);
-}
 
-#pause-control {
-    display: none;
-}
+@media (max-width: 600px) {
+    .slider {
+        width: 300px;
+        height: 150px;
+    }
 
-.slider-control label {
-    color: white;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    font-size: 40px;
-    transition: background-color 0.3s;
-}
+    .slides {
+        width: 1500px;
+    }
 
-.slider-control label:hover {
-    background: rgba(255, 255, 255, 0.84);
-}
+    .slides > div {
+        width: 300px;
+        height: 150px;
+    }
 
-#pause-control:checked ~ .slides {
-    animation-play-state: paused;
+@keyframes slide {
+    0% { transform: translateX(0); }
+    15% { transform: translateX(0); }
+    20% { transform: translateX(-300px); }
+    35% { transform: translateX(-300px); }
+    40% { transform: translateX(-600px); }
+    55% { transform: translateX(-600px); }
+    60% { transform: translateX(-900px); }
+    75% { transform: translateX(-900px); }
+    80% { transform: translateX(-1200px); }
+    95% { transform: translateX(-1200px); }
 }
-
-#pause-control:checked ~ .slider-control .play-label {
-    display: flex;
 }
-
-#pause-control:checked ~ .slider-control .pause-label {
-    display: none;
-}
-
-#pause-control:not(:checked) ~ .slider-control .play-label {
-    display: none;
-}
-
-#pause-control:not(:checked) ~ .slider-control .pause-label {
-    display: flex;
-}
-
 
 

@@ -8,7 +8,6 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       {text: 'Projects', link: '/projects'},
-      {text: 'About me', link: '/about-me'},
       {text: 'Resume', link: '/resume'},
     ],
 
@@ -21,6 +20,6 @@ export default defineConfig({
     }
   },
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/portfolio/assets/favicon.png' }]
+    ['link', { rel: 'icon', type: 'image/png', href: '/assets/favicon.png' }]
   ]
 })
