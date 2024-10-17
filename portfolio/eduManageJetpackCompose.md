@@ -9,13 +9,13 @@ settings. Advanced features include result filtering, index creation in database
 as Singleton and Dependency Injection.
 
 
- <div class="slider mx-auto mt-6 ">
-        <div class="slides">
-            <div>  <img src="/assets/edu7.png" alt="EduManage"></div>
-            <div>  <img src="/assets/edu6.png" alt="EduManage"></div>
+ <div class="slider-vertical mx-auto mt-6 ">
+        <div class="slides-vertical">
+            <div>  <img src="/assets/edu2.png" alt="EduManage"></div>
             <div>  <img src="/assets/edu3.png" alt="EduManage"></div>
             <div>  <img src="/assets/edu4.png" alt="EduManage"></div>
             <div>  <img src="/assets/edu5.png" alt="EduManage"></div>
+            <div>  <img src="/assets/edu1.png" alt="EduManage"></div>
         </div>
 </div>
 
