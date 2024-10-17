@@ -1,5 +1,5 @@
 
-<img src= "/assets/Infocountries_home.png" class="mx-auto rounded-lg" alt="Infocountries">
+<img src= "/assets/infoCountries/ic_2.png" class="mx-auto rounded-lg" alt="Infocountries">
 
 This is a project made with my partner <a href="https://github.com/VictorGlvez" target="_blank">Víctor Gálvez</a>. It is
 related to countries information. You can search for information about a country, see a gallery of images, make a
@@ -10,11 +10,11 @@ pexels.
 
  <div class="slider mx-auto mt-6 ">
         <div class="slides">
-            <div> <img src="/assets/InfoCountries_1.png" alt="Infocountries"></div>
-            <div>  <img src="/assets/InfoCountries_2.png" alt="Infocountries"></div>
-            <div>  <img src="/assets/InfoCountries_3.png" alt="Infocountries"></div>
-            <div>  <img src="/assets/InfoCountries_4.png" alt="Infocountries"></div>
-            <div>  <img src="/assets/InfoCountries_5.png" alt="Infocountries"></div>
+            <div> <img src="/assets/infoCountries/ic_3.png" alt="Infocountries"></div>
+            <div> <img src="/assets/infoCountries/ic_4.png" alt="Infocountries"></div>
+            <div> <img src="/assets/infoCountries/ic_5.png" alt="Infocountries"></div>
+            <div> <img src="/assets/infoCountries/ic_6.png" alt="Infocountries"></div>
+            <div> <img src="/assets/infoCountries/ic_7.png" alt="Infocountries"></div>
         </div>
 </div>
 
