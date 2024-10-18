@@ -23,23 +23,26 @@ hero:
     TODO: 
     -   Modificar CV para que la letra sea más grande.
     -   Poner la opción de cambiar de idioma
-    -   Hacer nuevas fotos de los proyectos, que se vean mejor y que tengan todas las mismas dimensiones (carrusel)
-    -   Añadir proyecto Dashboard NextJS
-    -   Añadir proyecto web exercises
+    -   Añadir lista de libros leídos en Resume
+    
 -->
-Hi, I'm Juan, a passionate full stack software developer. I love creating innovative solutions and collaborating with teams. Over the years, I've gained valuable
-experience working with diverse groups, enhancing both my technical and interpersonal skills.
+Hi, I'm Juan, a passionate full stack developer. 
 
-I thrive on the challenges of programming and enjoy using creativity to solve complex problems. What excites me most is
-the collaborative aspect of software development, where teamwork and communication lead to the best outcomes.
+I have spent more than 3 years **practicing** and **learning** to
+code, and now **I know how to get things done**. 
 
-For me, software development is the perfect mix of technical skill and human connection. I'm always eager to learn new
-technologies and methodologies, and I look forward to connecting with others who share my passion.
+I have learned to seek information. I have learned to understand
+the docs. I have learned to find my way to the solution.
 
-Thank you for visiting my portfolio. Let's connect!
+I practice almost every day. I am continuously learning.
 
-<a href="https://www.linkedin.com/in/juan-valera-reales/" target=”_blank”>
-<span class="px-4 py-2 text-sm font-semibold bg-zinc-200 dark:bg-zinc-700 text-gray-800 dark:text-gray-100/75 rounded-full">LinkedIn</span></a>
+And I am looking for a job <b>right now</b>.
+
+So if **you** need someone who knows how to work with computers, but also with humans. If **you** are looking for a programmer
+who is capable of learning with the same kindness for teaching. If **you** want to have in your team a passionate, funny,
+reliable, humble, and committed professional... say no more: you are in the **right place**.
+
+Interested? Check my projects and resume to know me better. ;)
 
 
 

@@ -30,7 +30,7 @@
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">ESLint</span>
   </div>
 
-  <div class="flex flex-wrap justify-center gap-4">
+  <div class="flex flex-wrap justify-center gap-4 px-4">
     <!--<a href="https://codesandbox.io/p/github/JuanValeraDev/video-player-nextjs/main?import=true" class="px-6 py-2 text-sm font-medium bg-zinc-400/50 hover:bg-zinc-400 dark:bg-zinc-500/50 dark:hover:bg-zinc-500 rounded-lg focus:ring-2 focus:ring-offset-2 transition-colors duration-400 anchor flex items-center" target="_blank">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2 anchor dark:text-gray-100/75" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10l-2 1m0 0l-2-1m2 1v2.5M20 7l-2 1m2-1l-2-1m2 1v2.5M14 4l-2-1-2 1M4 7l2-1M4 7l2 1M4 7v2.5M12 21l-2-1m2 1l2-1m-2 1v-2.5M6 18l-2-1v-2.5M18 18l2-1v-2.5" />
@@ -63,9 +63,10 @@
   </a>
 </div>
 
-  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto">
+  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto px-4">
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">NextJS</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">TailwindCSS</span>
+    <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">TypeScript</span>
   </div>
 
   <div class="flex flex-wrap justify-center gap-4">
@@ -99,8 +100,9 @@
   </a>
 </div>
 
-  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto">
+  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto px-4">
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">React</span>
+    <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">JavaScript</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">Bootstrap</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">Express</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">OpenAI API</span>
@@ -125,7 +127,7 @@
 
  <div class="max-w-2xl relative overflow-hidden rounded-lg group flex justify-center items-center mb-6 mx-auto">
   <a href="infoCountriesReactNative.html" class="block">
-    <img src="/assets/RN_home.png" alt="InfoCountries React Native" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
+    <img src="/assets/infoCountriesRN/icrn_3.png" alt="InfoCountries React Native" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
     <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
       <span class="text-black dark:text-white text-3xl font-bold flex items-center">
         Learn more
@@ -137,7 +139,7 @@
   </a>
 </div>
 
-  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto">
+  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto px-4">
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">React Native</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">Expo</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">TypeScript</span>
@@ -157,7 +159,7 @@
 
  <div class="max-w-2xl relative overflow-hidden rounded-lg group flex justify-center items-center mb-6 mx-auto">
   <a href="podHouse.html" class="block">
-    <img src="/assets/podhouse_4.png" alt="PodHouse" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
+    <img src="/assets/podhouse/podhouse_5.png" alt="PodHouse" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
     <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
       <span class="text-black dark:text-white text-3xl font-bold flex items-center">
         Learn more
@@ -169,7 +171,7 @@
   </a>
 </div>
 
-  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto">
+  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto px-4">
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">JavaScript</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">HTML</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">CSS</span>
@@ -191,7 +193,7 @@
 
  <div class="max-w-2xl relative overflow-hidden rounded-lg group flex justify-center items-center mb-6 mx-auto">
   <a href="eduManageJetpackCompose.html" class="block">
-    <img src="/assets/eduManage/edu4.png" alt="EduManage" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
+    <img src="/assets/eduManage/em_4.png" alt="EduManage" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
     <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
       <span class="text-black dark:text-white text-3xl font-bold flex items-center">
         Learn more
@@ -203,11 +205,13 @@
   </a>
 </div>
 
-  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto">
+  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto px-4">
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">Jetpack Compose</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">Kotlin</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">SQLite</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">Firebase</span>
+    <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">MVVM</span>
+    <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">Dependency Injection</span>
   </div>
 </div>
 
@@ -216,7 +220,7 @@
 
  <div class="max-w-2xl relative overflow-hidden rounded-lg group flex justify-center items-center mb-6 mx-auto">
   <a href="eduManageXML.html" class="block">
-    <img src="/assets/xml2.png" alt="EduManage" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
+    <img src="/assets/xml/xml_7.png" alt="EduManage" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50">
     <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
       <span class="text-black dark:text-white text-3xl font-bold flex items-center">
         Learn more
@@ -228,7 +232,7 @@
   </a>
 </div>
 
-  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto">
+  <div class="flex flex-wrap justify-center gap-2 mb-6 mx-auto px-4">
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">Android View Binding</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">Kotlin</span>
     <span class="px-4 py-2 text-sm font-semibold bg-zinc-100 dark:bg-zinc-900 text-gray-800 dark:text-gray-100/75 rounded-full">SQLite</span>
