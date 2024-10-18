@@ -21,9 +21,14 @@ hero:
 
 <!--
     TODO: 
-    -   Modificar CV para que la letra sea más grande.
-    -   Poner la opción de cambiar de idioma
+    -   Añadir breadcrumbs a los proyectos
     -   Añadir lista de libros leídos en Resume
+    -   Añadir sección de recomendaciones de otros profesionales
+    -   Modificar CV para que la letra sea más grande, quitar borde de fuera, poner nombre en la columna de la izquierda, menos padding en las cajas, 
+            poner portfolio como primer enlace.
+    -   Poner la opción de cambiar de idioma
+    -   Añadir página de contacto para recibir emails
+    - Poner públicos los dos proyectos en github de eduManage
     
 -->
 Hi, I'm Juan, a passionate full stack developer. 
@@ -36,7 +41,7 @@ the docs. I have learned to find my way to the solution.
 
 I practice almost every day. I am continuously learning.
 
-And I am looking for a job <b>right now</b>.
+And I am looking for a job **right now**.
 
 So if **you** need someone who knows how to work with computers, but also with humans. If **you** are looking for a programmer
 who is capable of learning with the same kindness for teaching. If **you** want to have in your team a passionate, funny,

@@ -1,4 +1,6 @@
-<img src= "/assets/eduManage/em_5.png" class="mx-auto max-h-80 rounded-lg" alt="Infocountries React Native">
+# EduManage
+
+<img src= "/assets/eduManage/em_5.png" class="mx-auto max-h-80 rounded-lg mt-8" alt="Infocountries React Native">
 
 EduManage is an Android application developed with Jetpack Compose and Kotlin, designed to manage
 departments, classrooms, and incidents. The application leverages the power of the MVVM architecture, state management,

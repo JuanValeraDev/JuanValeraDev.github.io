@@ -1,4 +1,6 @@
-<img src= "/assets/CV_JuanValera.png" class="mx-auto  mb-6" alt="CV Juan Valera">
+# Resume
+
+<img src= "/assets/CV_JuanValera.png" class="mx-auto  mb-6 mt-8" alt="CV Juan Valera">
 
 [Download PDF](CV_JuanValera.pdf)
 
@@ -52,6 +54,8 @@
         <span class="text">Docker, Git, GitHub, VitePress</span>
     </div> 
 </div>
+
+
 
 
 <img src="/assets/portrait.png" alt="Juan Valera Reales" class=" mx-auto mt-6 rounded-lg">

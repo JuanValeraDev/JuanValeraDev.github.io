@@ -1,4 +1,6 @@
-<img src= "/assets/xml/xml_2.png" class="mx-auto max-h-80 rounded-lg" alt="Infocountries React Native">
+# EduManage XML
+
+<img src= "/assets/xml/xml_2.png" class="mx-auto max-h-80 rounded-lg mt-8" alt="Infocountries React Native">
 
 This is the same project as EduManage, but developed with XML views instead of Jetpack Compose.
  
