@@ -264,5 +264,25 @@ html.dark .slides-vertical > div {
     95% { transform: translateX(-1200px); }
 }
 
+/*Book store*/
 
+.bookstore{
+    display: flex;
+    width: 500px;
+    height: 330px;
+}
+
+.bookstore img{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: contain;
+    opacity: .8;
+    transition: .5s ease;
+}
+.bookstore img:hover{
+    cursor: crosshair;
+    width: 200px;
+    opacity: 1;
+    filter: contrast(120%);
+}
 

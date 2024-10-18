@@ -6,17 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/css/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/output.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/dashboard.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/dashboard.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/eduManageJetpackCompose.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/eduManageJetpackCompose.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/eduManageXML.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/eduManageXML.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/infoCountries.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/infoCountries.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/infoCountriesReactNative.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/infoCountriesReactNative.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/markdown-examples.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/podHouse.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/podHouse.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/videoPlayer.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/videoPlayer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +51,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/juanvalera/GitHubRepos/Porfolio/JuanValeraDev.github.io/portfolio/assets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/juanvalera/GitHubRepos/Porfolio/JuanValeraDev.github.io/portfolio/assets/books&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,11 +64,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/assets/books" />
       <recent name="$PROJECT_DIR$/portfolio/assets" />
       <recent name="$PROJECT_DIR$/portfolio/public" />
       <recent name="$PROJECT_DIR$/docs/.vitepress/theme" />
       <recent name="$PROJECT_DIR$/docs/public" />
-      <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio/assets/podhouse" />
@@ -111,7 +103,8 @@
       <workItem from="1729088347959" duration="9383000" />
       <workItem from="1729149131048" duration="8737000" />
       <workItem from="1729176290180" duration="5785000" />
-      <workItem from="1729234719653" duration="7472000" />
+      <workItem from="1729234719653" duration="7725000" />
+      <workItem from="1729264497359" duration="1718000" />
     </task>
     <servers />
   </component>
