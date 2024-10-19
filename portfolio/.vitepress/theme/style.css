@@ -385,4 +385,25 @@ html.dark .slides-vertical > div {
         object-fit: contain;
     }
 }
+@media (max-width: 400px) {
+    .bookstore {
+        display: flex;
+        width: 250px;
+        height: 200px;
+    }
+
+    .bookstore img {
+        width: 0px;
+        flex-grow: 1;
+        object-fit: cover;
+        opacity: .8;
+        transition: .5s ease;
+    }
+
+    .bookstore img:hover {
+        width: 100px;
+        opacity: 1;
+        object-fit: contain;
+    }
+}
 
