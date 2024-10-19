@@ -59,32 +59,24 @@
 
 # Books
 
-<section class="bookstore">
-<img src="/assets/books/agile.jpg" alt="book"/>
+<br>
+<section class="bookstore mx-auto">
 <img src="/assets/books/pragmatic.jpg" alt="book"/>
+<img src="/assets/books/agile.jpg" alt="book"/>
 <img src="/assets/books/agile_guide.jpg" alt="book"/>
-<img src="/assets/books/atomic_habits.jpg" alt="book"/>
+<img src="/assets/books/scrum_mastery.jpg" alt="book"/>
+<img src="/assets/books/scrum.jpg" alt="book"/>
 <img src="/assets/books/build_trap.jpg" alt="book"/>
-<img src="/assets/books/split.jpg" alt="book"/>
-</section>
-
-<section class="bookstore">
-
 <img src="/assets/books/inspired.jpg" alt="book"/>
-<img src="/assets/books/sprint.jpg" alt="book"/>
-<img src="/assets/books/cues.jpg" alt="book"/>
-<img src="/assets/books/captivate.jpg" alt="book"/>
-<img src="/assets/books/greenlights.jpg" alt="book"/>
-<img src="/assets/books/power_of_habits.jpg" alt="book"/>
-
 </section>
-
-<section class="bookstore">
+<br>
+<section class="bookstore mx-auto">
+<img src="/assets/books/sprint.jpg" alt="book"/>
+<img src="/assets/books/power_of_habits.jpg" alt="book"/>
 <img src="/assets/books/product_owner.jpg" alt="book"/>
 <img src="/assets/books/why.jpg" alt="book"/>
-<img src="/assets/books/rich_dad.jpg" alt="book"/>
-<img src="/assets/books/scrum.jpg" alt="book"/>
-<img src="/assets/books/scrum_mastery.jpg" alt="book"/>
+<img src="/assets/books/atomic_habits.jpg" alt="book"/>
+<img src="/assets/books/split.jpg" alt="book"/>
 <img src="/assets/books/scrum_pocket_guide.jpg" alt="book"/>
 </section>
 

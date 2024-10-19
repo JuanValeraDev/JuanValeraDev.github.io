@@ -65,14 +65,17 @@
     background-color: rgba(1, 82, 166, 0.5);
     border-color: #007bff;
 }
+
 .grid-item:nth-child(1) .card-title {
     background-color: #007bff;
     text-align: center;
 }
+
 .grid-item:nth-child(2) {
     background-color: rgba(175, 10, 27, 0.5);
     border-color: #dc3545;
 }
+
 .grid-item:nth-child(2) .card-title {
     background-color: #dc3545;
     text-align: center;
@@ -82,6 +85,7 @@
     background-color: rgba(55, 12, 138, 0.5);
     border-color: #6f42c1;
 }
+
 .grid-item:nth-child(3) .card-title {
     background-color: #6f42c1;
     text-align: center;
@@ -91,42 +95,52 @@
     background-color: rgba(6, 101, 28, 0.5);
     border-color: #28a745;
 }
+
 .grid-item:nth-child(4) .card-title {
     background-color: #28a745;
     text-align: center;
 }
+
 .grid-item:nth-child(5) {
     background-color: rgba(108, 82, 3, 0.5);
     border-color: #ffc107;
 }
+
 .grid-item:nth-child(5) .card-title {
     background-color: #ffc107;
     text-align: center;
 }
+
 .grid-item:nth-child(6) {
     background-color: rgba(7, 105, 120, 0.5);
     border-color: #17a2b8;
 }
+
 .grid-item:nth-child(6) .card-title {
     background-color: #17a2b8;
     text-align: center;
 }
+
 .grid-item:nth-child(7) {
     background-color: rgba(136, 38, 7, 0.5);
     border-color: #ff5722;
 }
+
 .grid-item:nth-child(7) .card-title {
     background-color: #ff5722;
     text-align: center;
 }
+
 .grid-item:nth-child(8) {
     background-color: rgba(128, 9, 49, 0.5);
     border-color: #ff4081;
 }
+
 .grid-item:nth-child(8) .card-title {
     background-color: #ff4081;
     text-align: center;
 }
+
 .grid-item:nth-child(9) {
     background-color: rgba(50, 6, 129, 0.5);
     border-color: #673ab7;
@@ -137,10 +151,11 @@
     text-align: center;
 }
 
-.anchor{
+.anchor {
     text-decoration: none !important;
     color: rgba(37, 37, 37, 0.75) !important;
 }
+
 html.dark .anchor {
     color: rgba(255, 255, 255, 0.75) !important;
 }
@@ -152,7 +167,7 @@ html.dark .anchor {
     position: relative;
     overflow: hidden;
     border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .slides {
@@ -179,16 +194,36 @@ html.dark .slides > div {
 }
 
 @keyframes slide {
-    0% { transform: translateX(0); }
-    15% { transform: translateX(0); }
-    20% { transform: translateX(-600px); }
-    35% { transform: translateX(-600px); }
-    40% { transform: translateX(-1200px); }
-    55% { transform: translateX(-1200px); }
-    60% { transform: translateX(-1800px); }
-    75% { transform: translateX(-1800px); }
-    80% { transform: translateX(-2400px); }
-    95% { transform: translateX(-2400px); }
+    0% {
+        transform: translateX(0);
+    }
+    15% {
+        transform: translateX(0);
+    }
+    20% {
+        transform: translateX(-600px);
+    }
+    35% {
+        transform: translateX(-600px);
+    }
+    40% {
+        transform: translateX(-1200px);
+    }
+    55% {
+        transform: translateX(-1200px);
+    }
+    60% {
+        transform: translateX(-1800px);
+    }
+    75% {
+        transform: translateX(-1800px);
+    }
+    80% {
+        transform: translateX(-2400px);
+    }
+    95% {
+        transform: translateX(-2400px);
+    }
 }
 
 @media (max-width: 600px) {
@@ -206,19 +241,40 @@ html.dark .slides > div {
         height: 150px;
     }
 
-@keyframes slide {
-    0% { transform: translateX(0); }
-    15% { transform: translateX(0); }
-    20% { transform: translateX(-300px); }
-    35% { transform: translateX(-300px); }
-    40% { transform: translateX(-600px); }
-    55% { transform: translateX(-600px); }
-    60% { transform: translateX(-900px); }
-    75% { transform: translateX(-900px); }
-    80% { transform: translateX(-1200px); }
-    95% { transform: translateX(-1200px); }
+    @keyframes slide {
+        0% {
+            transform: translateX(0);
+        }
+        15% {
+            transform: translateX(0);
+        }
+        20% {
+            transform: translateX(-300px);
+        }
+        35% {
+            transform: translateX(-300px);
+        }
+        40% {
+            transform: translateX(-600px);
+        }
+        55% {
+            transform: translateX(-600px);
+        }
+        60% {
+            transform: translateX(-900px);
+        }
+        75% {
+            transform: translateX(-900px);
+        }
+        80% {
+            transform: translateX(-1200px);
+        }
+        95% {
+            transform: translateX(-1200px);
+        }
+    }
 }
-}
+
 /*Slider vertical*/
 .slider-vertical {
     width: 300px;
@@ -226,8 +282,9 @@ html.dark .slides > div {
     position: relative;
     overflow: hidden;
     border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 .slides-vertical {
     display: flex;
     width: 1500px;
@@ -252,37 +309,80 @@ html.dark .slides-vertical > div {
 }
 
 @keyframes slide-vertical {
-    0% { transform: translateX(0); }
-    15% { transform: translateX(0); }
-    20% { transform: translateX(-300px); }
-    35% { transform: translateX(-300px); }
-    40% { transform: translateX(-600px); }
-    55% { transform: translateX(-600px); }
-    60% { transform: translateX(-900px); }
-    75% { transform: translateX(-900px); }
-    80% { transform: translateX(-1200px); }
-    95% { transform: translateX(-1200px); }
+    0% {
+        transform: translateX(0);
+    }
+    15% {
+        transform: translateX(0);
+    }
+    20% {
+        transform: translateX(-300px);
+    }
+    35% {
+        transform: translateX(-300px);
+    }
+    40% {
+        transform: translateX(-600px);
+    }
+    55% {
+        transform: translateX(-600px);
+    }
+    60% {
+        transform: translateX(-900px);
+    }
+    75% {
+        transform: translateX(-900px);
+    }
+    80% {
+        transform: translateX(-1200px);
+    }
+    95% {
+        transform: translateX(-1200px);
+    }
 }
 
 /*Book store*/
 
-.bookstore{
+.bookstore {
     display: flex;
-    width: 500px;
+    width: 600px;
     height: 330px;
 }
 
-.bookstore img{
+.bookstore img {
     width: 0px;
     flex-grow: 1;
-    object-fit: contain;
+    object-fit: cover;
     opacity: .8;
     transition: .5s ease;
 }
-.bookstore img:hover{
-    cursor: crosshair;
-    width: 200px;
+
+.bookstore img:hover {
+    width: 300px;
     opacity: 1;
-    filter: contrast(120%);
+    object-fit: contain;
+
+}
+
+@media (max-width: 600px) {
+    .bookstore {
+        display: flex;
+        width: 400px;
+        height: 200px;
+    }
+
+    .bookstore img {
+        width: 0px;
+        flex-grow: 1;
+        object-fit: cover;
+        opacity: .8;
+        transition: .5s ease;
+    }
+
+    .bookstore img:hover {
+        width: 200px;
+        opacity: 1;
+        object-fit: contain;
+    }
 }
 

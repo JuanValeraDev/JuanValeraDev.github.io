@@ -7,7 +7,6 @@
     <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/css/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/output.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/resume.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +103,9 @@
       <workItem from="1729149131048" duration="8737000" />
       <workItem from="1729176290180" duration="5785000" />
       <workItem from="1729234719653" duration="7725000" />
-      <workItem from="1729264497359" duration="1718000" />
+      <workItem from="1729264497359" duration="2948000" />
+      <workItem from="1729268245055" duration="121000" />
+      <workItem from="1729329311506" duration="1397000" />
     </task>
     <servers />
   </component>
