@@ -22,10 +22,7 @@ hero:
 <!--
     TODO: 
     -   Añadir breadcrumbs a los proyectos
-    -   Añadir lista de libros leídos en Resume
     -   Añadir sección de recomendaciones de otros profesionales
-    -   Modificar CV para que la letra sea más grande, quitar borde de fuera, poner nombre en la columna de la izquierda, menos padding en las cajas, 
-            poner portfolio como primer enlace.
     -   Poner la opción de cambiar de idioma
     -   Añadir página de contacto para recibir emails
     - Poner públicos los dos proyectos en github de eduManage

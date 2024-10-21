@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="853b2493-a95c-4cb3-8ee7-048e5f397a89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/portfolio/assets/Dark_CV_JuanValera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.vitepress/theme/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/output.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/resume.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +108,7 @@
       <workItem from="1729264497359" duration="2948000" />
       <workItem from="1729268245055" duration="121000" />
       <workItem from="1729329311506" duration="2513000" />
-      <workItem from="1729498195900" duration="1647000" />
+      <workItem from="1729498195900" duration="6743000" />
     </task>
     <servers />
   </component>
