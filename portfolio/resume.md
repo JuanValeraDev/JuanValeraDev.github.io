@@ -1,6 +1,7 @@
 # Resume
 
-<img src= "/assets/CV_JuanValera.png" class="mx-auto  mb-6 mt-8" alt="CV Juan Valera">
+<img src= "/assets/CV_JuanValera.png" class="mx-auto  mb-6 mt-8 dark:hidden" alt="CV Juan Valera">
+<img src= "/assets/Dark_CV_JuanValera.png" class="mx-auto  mb-6 mt-8 hidden dark:block" alt="CV Juan Valera">
 
 [Download PDF](CV_JuanValera.pdf)
 
