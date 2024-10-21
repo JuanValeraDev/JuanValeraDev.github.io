@@ -22,10 +22,9 @@ hero:
 <!--
     TODO: 
     -   Añadir breadcrumbs a los proyectos
-    -   Añadir sección de recomendaciones de otros profesionales
     -   Poner la opción de cambiar de idioma
     -   Añadir página de contacto para recibir emails
-    - Poner públicos los dos proyectos en github de eduManage
+    -   Poner públicos los dos proyectos en github de eduManage
     
 -->
 Hi, I'm Juan, a passionate full stack developer. 
