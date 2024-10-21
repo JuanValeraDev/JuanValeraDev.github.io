@@ -1,64 +1,93 @@
+
 # Resume
 
-<img src= "/assets/CV_JuanValera.png" class="mx-auto  mb-6 mt-8 dark:hidden md:p-14" alt="CV Juan Valera">
-<img src= "/assets/Dark_CV_JuanValera.png" class="mx-auto  mb-6 mt-8 hidden md:p-14 dark:block" alt="CV Juan Valera">
+<img src= "/assets/CV_JuanValera.png" class="mx-auto  mb-6  dark:hidden md:p-14" alt="CV Juan Valera">
+<img src= "/assets/Dark_CV_JuanValera.png" class="mx-auto  mb-6  hidden md:p-14 dark:block" alt="CV Juan Valera">
 
 [Download PDF](CV_JuanValera.pdf)
 
-##
 
 # Stacks
-
-<div class="grid mt-6">
-    <div class="grid-item">
-        <div class="card-title"><b>React</b></div>
-        <span class="text"><b>Languages</b>:<br> JavaScript, TypeScript</span>
-        <br>
-        <span class="text"><b>Frameworks/Libaries</b>:<br> NextJS, Express, TailwindCSS, Bootstrap, Material-UI</span>
-        <br>
-        <span class="text"><b>Tools</b>:<br> NPM, Node.js, Bun.js, MongoDB, WebStorm, HTML, CSS</span>
-    </div>
-    <div class="grid-item">
-        <div class="card-title"><b>React Native</b></div>
-        <span class="text"><b>Languages</b>:<br> JavaScript, TypeScript</span>
-        <br>
-        <span class="text"><b>Frameworks/Libraries</b>:<br> Expo, Ionic Capacitor</span>
-        <br>
-        <span class="text"><b>Tools</b>:<br> Appwrite, Firebase</span>
-    </div> 
-    <div class="grid-item">
-        <div class="card-title"><b>Android</b></div>
-        <span class="text"><b>Languages</b>:<br> Kotlin, Java</span>
-        <br>
-        <span class="text"><b>Frameworks/Libraries</b>:<br> Jetpack Compose, View Binding</span>
-        <br>
-        <span class="text"><b>Tools</b>:<br> Gradle, Android SDK, SQLite, Android Studio</span>
-    </div>
-    <div class="grid-item">
-        <div class="card-title"><b>Spring</b></div>
-        <span class="text"><b>Languages</b>:<br> Java</span>
-        <br>
-        <span class="text"><b>Frameworks/Libraries</b>:<br> Spring Boot</span>
-        <br>
-        <span class="text"><b>Tools</b>:<br> Maven, MySQL, Oracle SQL, Dagger Engine, IntelliJ IDEA</span>
-    </div>
-    <div class="grid-item">
-        <div class="card-title"><b>AI</b></div>
-        <span class="text"><b>Languages</b>:<br> Python</span>
-        <br>
-        <span class="text"><b>Frameworks/Libraries</b>:<br> Pandas</span>
-        <br>
-        <span class="text"><b>Tools</b>:<br> Langchain, Llamafiles, Google OR Tools, MongoDB Atlas Vector Search, PostgreSQL, PyCharm
-    </span>
-    </div>
-    <div class="grid-item">
-        <div class="card-title"><b>Other technologies</b></div>
-        <span class="text">Docker, Git, GitHub, VitePress</span>
-    </div> 
+<br>
+<section class=" py-8 bg-zinc-200 dark:bg-zinc-800 flex items-center justify-center min-h-screen rounded-lg ∑">
+  <div class="container mx-auto px-4">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
+             <div class="relative z-10">
+       <div class="flex flex-row items-center"> 
+        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-4xl">React</span>
+        <img src="/assets/react.png" class="stack-logo w-1/3 filter grayscale"/>        
+        </div>
+        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br> JavaScript, TypeScript</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br> NextJS, Express, TailwindCSS, Bootstrap, Material-UI</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br> NPM, Node.js, Bun.js, MongoDB, WebStorm, HTML, CSS</p>
+         </div>
+     </div>
+         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
+             <div class="relative z-10">
+       <div class="flex flex-row items-center"> 
+        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-3xl">React Native</span>
+        <img src="/assets/react.png" class="stack-logo w-1/3 filter grayscale"/>        
+        </div>
+        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br> JavaScript, TypeScript</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br> Expo, Ionic Capacitor</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br>Appwrite, Firebase</p>
+         </div>
+     </div>
+         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
+             <div class="relative z-10">
+       <div class="flex flex-row items-center"> 
+        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-3xl">Android</span>
+        <img src="/assets/android.png" class="stack-logo w-1/3 filter grayscale"/>        
+        </div>
+        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br> Kotlin, Java</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br> Jetpack Compose, View Binding</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br> Gradle, Android SDK, SQLite, Android Studio</p>
+         </div>
+     </div>
+         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
+             <div class="relative z-10">
+       <div class="flex flex-row items-center"> 
+        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-3xl">Spring</span>
+        <img src="/assets/spring.png" class="stack-logo w-1/3 filter grayscale"/>        
+        </div>
+        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br>Java</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br>Spring Boot</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br>  Maven, MySQL, Oracle SQL, Dagger Engine, IntelliJ IDEA</p>
+         </div>
+     </div>
+         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
+             <div class="relative z-10">
+       <div class="flex flex-row items-center"> 
+        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-3xl">AI</span>
+        <img src="/assets/python.png" class="stack-logo w-1/3 filter grayscale"/>        
+        </div>
+        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br>Python</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br>Pandas</p>
+        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br> Langchain, Llamafiles, Google OR Tools, MongoDB Atlas Vector Search, PostgreSQL, PyCharm</p>
+         </div>
+     </div>
+         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
+             <div class="relative z-10">
+       <div class="flex flex-row items-center"> 
+        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-2xl">Other technologies</span>
+        <img src="/assets/other.png" class="stack-logo w-1/3 filter grayscale self-start"/>        
+        </div>
+        <p class="text-gray-600 dark:text-gray-200"> Docker, Git, GitHub, VitePress</p>
+         </div>
+     </div>
+   
+  </div>
 </div>
+</section>
+
+
 
 <br>
 <br>
+
+##
+
 
 # Recommendations
 
@@ -131,28 +160,5 @@ He is the really nice guy who everyone would like to work with.      </p>
 </section>
 
 <br>
-
-# Books
-
-<br>
-<section class="bookstore mx-auto">
-<img src="/assets/books/pragmatic.jpg" alt="book"/>
-<img src="/assets/books/agile.jpg" alt="book"/>
-<img src="/assets/books/agile_guide.jpg" alt="book"/>
-<img src="/assets/books/scrum_mastery.jpg" alt="book"/>
-<img src="/assets/books/scrum.jpg" alt="book"/>
-<img src="/assets/books/build_trap.jpg" alt="book"/>
-<img src="/assets/books/inspired.jpg" alt="book"/>
-</section>
-<br>
-<section class="bookstore mx-auto">
-<img src="/assets/books/sprint.jpg" alt="book"/>
-<img src="/assets/books/power_of_habits.jpg" alt="book"/>
-<img src="/assets/books/product_owner.jpg" alt="book"/>
-<img src="/assets/books/why.jpg" alt="book"/>
-<img src="/assets/books/atomic_habits.jpg" alt="book"/>
-<img src="/assets/books/split.jpg" alt="book"/>
-<img src="/assets/books/scrum_pocket_guide.jpg" alt="book"/>
-</section>
 
 
