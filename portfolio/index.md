@@ -27,24 +27,19 @@ hero:
     -   Poner públicos los dos proyectos en github de eduManage
     
 -->
-Hi, I'm Juan, a passionate full stack developer. 
+Hi, I'm Juan, a passionate full stack developer currently working at NTT Data Murcia on a project for IVI.
 
-I have spent more than 3 years **practicing** and **learning** to
-code, and now **I know how to get things done**. 
+Over the years, I’ve gone from practicing and learning to code to working in a professional environment where teamwork and collaboration are essential.
 
-I have learned to seek information. I have learned to understand
-the docs. I have learned to find my way to the solution.
+I’m gaining valuable experience with Kanban workflows using tools like Jira and Bitbucket, and developing with the Servoy framework.
 
-I practice almost every day. I am continuously learning.
+Beyond coding, I’m also growing from a DevOps perspective — understanding the bigger picture of the application’s ecosystem, service communications, integrations, and monitoring with Datadog. 
 
-And I am looking for a job **right now**.
+This allows me to not only write code, but also understand how everything fits together to deliver reliable, scalable solutions.
 
-So if **you** need someone who knows how to work with computers, but also with humans. If **you** are looking for a programmer
-who is capable of learning with the same kindness for teaching. If **you** want to have in your team a passionate, funny,
-reliable, humble, and committed professional... say no more: you are in the **right place**.
+I’m still the same passionate, curious, and committed professional who loves learning every day — only now I’m doing it while contributing to a real-world, large-scale project.
 
-Interested? Check my projects and resume to know me better. ;)
-
+Want to see what I can do? Check out my projects and experience. 😉
 
 
 
