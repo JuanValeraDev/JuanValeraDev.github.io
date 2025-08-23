@@ -5,7 +5,7 @@
   <p class="text-3xl pt-6 font-bold mb-6 text-gray-800 dark:text-white ">Cyber-Gadgets</p>
 
   <div class="max-w-2xl relative overflow-hidden rounded-lg group flex justify-center items-center mb-6 mx-auto">
-  <a href="cyber-gadgets.md" class="block">
+  <a href="cyber-gadgets.html" class="block">
   <img src="/assets/cyber-gadgets/1.png" alt="Cyber-Gadgets" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50 dark:hidden">
     <img src="/assets/cyber-gadgets/2.png" alt="Cyber-Gadgets" class="rounded-lg max-h-96 object-contain transition-transform duration-300 group-hover:scale-105 group-hover:opacity-50 hidden dark:block">
       <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
