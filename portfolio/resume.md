@@ -1,84 +1,43 @@
-
 # Resume
 
-<img src= "/assets/CV_JuanValera.png" class="mx-auto  mb-6  dark:hidden md:p-14" alt="CV Juan Valera">
-<img src= "/assets/Dark_CV_JuanValera.png" class="mx-auto  mb-6  hidden md:p-14 dark:block" alt="CV Juan Valera">
-
-[Download PDF](CV_JuanValera.pdf)
-
-
-# Stacks
 <br>
-<section class=" py-8 bg-zinc-200 dark:bg-zinc-800 flex items-center justify-center min-h-screen rounded-lg ∑">
+
+## Stacks
+<section class="py-8 bg-zinc-200 dark:bg-zinc-800 flex items-center justify-center rounded-lg">
   <div class="container mx-auto px-4">
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-        <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
-             <div class="relative z-10">
-       <div class="flex flex-row items-center"> 
-        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-4xl">React</span>
-        <img src="/assets/react.png" class="stack-logo w-1/3 filter grayscale"/>        
-        </div>
-        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br> JavaScript, TypeScript</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br> NextJS, Express, TailwindCSS, Bootstrap, Material-UI</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br> NPM, Node.js, Bun.js, MongoDB, WebStorm, HTML, CSS</p>
-         </div>
-     </div>
-         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
-             <div class="relative z-10">
-       <div class="flex flex-row items-center"> 
-        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-3xl">React Native</span>
-        <img src="/assets/react.png" class="stack-logo w-1/3 filter grayscale"/>        
-        </div>
-        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br> JavaScript, TypeScript</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br> Expo, Ionic Capacitor</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br>Appwrite, Firebase</p>
-         </div>
-     </div>
-         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
-             <div class="relative z-10">
-       <div class="flex flex-row items-center"> 
-        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-3xl">Android</span>
-        <img src="/assets/android.png" class="stack-logo w-1/3 filter grayscale"/>        
-        </div>
-        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br> Kotlin, Java</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br> Jetpack Compose, View Binding</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br> Gradle, Android SDK, SQLite, Android Studio</p>
-         </div>
-     </div>
-         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
-             <div class="relative z-10">
-       <div class="flex flex-row items-center"> 
-        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-3xl">Spring</span>
-        <img src="/assets/spring.png" class="stack-logo w-1/3 filter grayscale"/>        
-        </div>
-        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br>Java</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br>Spring Boot</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br>  Maven, MySQL, Oracle SQL, Dagger Engine, IntelliJ IDEA</p>
-         </div>
-     </div>
-         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
-             <div class="relative z-10">
-       <div class="flex flex-row items-center"> 
-        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-3xl">AI</span>
-        <img src="/assets/python.png" class="stack-logo w-1/3 filter grayscale"/>        
-        </div>
-        <p class="text-gray-600 dark:text-gray-200"><b>Languages:</b><br>Python</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Frameworks/Libraries:</b><br>Pandas</p>
-        <p class="text-gray-600 dark:text-gray-200"><b>Tools</b>:<br> Langchain, Llamafiles, Google OR Tools, MongoDB Atlas Vector Search, PostgreSQL, PyCharm</p>
-         </div>
-     </div>
-         <div class="bg-white dark:bg-zinc-700 p-4 rounded-lg shadow-lg relative overflow-hidden">
-             <div class="relative z-10">
-       <div class="flex flex-row items-center"> 
-        <span class="font-semibold text-gray-800 dark:text-gray-100 self-center text-center w-2/3 text-2xl">Other technologies</span>
-        <img src="/assets/other.png" class="stack-logo w-1/3 filter grayscale self-start"/>        
-        </div>
-        <p class="text-gray-600 dark:text-gray-200"> Docker, Git, GitHub, VitePress</p>
-         </div>
-     </div>
-   
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <!-- Card -->
+      <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
+        <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Frameworks</h3>
+        <p class="text-gray-600 dark:text-gray-200">React, Jetpack Compose, Servoy</p>
+      </div>
+      <!-- Card -->
+      <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
+        <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Languages</h3>
+        <p class="text-gray-600 dark:text-gray-200">JavaScript, TypeScript, Java, Kotlin</p>
+      </div>
+      <!-- Card -->
+      <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
+        <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Databases</h3>
+        <p class="text-gray-600 dark:text-gray-200">Supabase, SQL Manager, MongoDB, Firebase</p>
+      </div>
+      <!-- Card -->
+      <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
+        <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Tools & Environments</h3>
+        <p class="text-gray-600 dark:text-gray-200">GitHub, Datadog, Jira, Docker, ESLint</p>
+      </div>
+      <!-- Card -->
+      <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
+        <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Technologies & Platforms</h3>
+        <p class="text-gray-600 dark:text-gray-200">Vercel, Render, Gemini API, Netlify, AWS S3</p>
+      </div>
+      <!-- Card -->
+      <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
+        <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Methodologies & Best Practices</h3>
+        <p class="text-gray-600 dark:text-gray-200">Agile/Scrum, Testing, Clean Code, SOLID</p>
+      </div>
+    </div>
   </div>
-</div>
 </section>
 
 
@@ -88,8 +47,7 @@
 
 ##
 
-
-# Recommendations
+## Recommendations
 
 <br>
 
