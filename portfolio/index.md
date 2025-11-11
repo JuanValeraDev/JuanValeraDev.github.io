@@ -27,19 +27,19 @@ hero:
     -   Poner públicos los dos proyectos en github de eduManage
     
 -->
-Hi, I'm Juan, a passionate full stack developer currently working at NTT Data Murcia on a project for IVI.
 
-Over the years, I’ve gone from practicing and learning to code to working in a professional environment where teamwork and collaboration are essential.
+Hi, I’m Juan — a passionate full-stack developer currently at **[Digio](https://digio.es/en/)**, working within an agile team focused on cutting-edge AI for web development.
 
-I’m gaining valuable experience with Kanban workflows using tools like Jira and Bitbucket, and developing with the Servoy framework.
+Over the years, I’ve grown from practising and learning to code into collaborating professionally to build impactful digital solutions. Now I apply that drive to real-world problems within a dynamic environment.
 
-Beyond coding, I’m also growing from a DevOps perspective — understanding the bigger picture of the application’s ecosystem, service communications, integrations, and monitoring with Datadog. 
+At Digio, I work with technologies such as React and Angular on the frontend, relational databases like PostgreSQL and NoSQL options like MongoDB, full-stack frameworks including TanStack Start and NestJS, and ORMs such as Drizzle. On top of that, our team lives and breathes AI-powered agents — it’s our day-to-day rhythm.
 
-This allows me to not only write code, but also understand how everything fits together to deliver reliable, scalable solutions.
+Beyond writing code, I’m expanding my view towards the full ecosystem: orchestrating service communications, integrations, and monitoring, and contributing to delivering robust, scalable digital products.
 
-I’m still the same passionate, curious, and committed professional who loves learning every day — only now I’m doing it while contributing to a real-world, large-scale project.
+I remain the same curious, committed professional who loves to learn every day — only now, I’m doing it while building the future of web development at Digio.
 
-Want to see what I can do? Check out my projects and experience. 😉
+Want to see what I can do? Dive into my projects and experience. 😉
+
 
 
 
