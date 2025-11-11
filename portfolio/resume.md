@@ -63,7 +63,7 @@
 always providing constructive feedback that improves processes and outcomes. <br><br>His ability to adapt and work in different areas, including web and mobile application development,
 is impressive. This level of versatility not only adds great value to any team but also ensures that any project he participates in is in good hands. <br><br> I am confident that Juan will
 be a valuable asset to any company he works for in the future. His ability to face challenges independently and efficiently makes him an exceptional professional who always seeks 
-to surpass himself and give his best. (Translated)
+to surpass himself and give his best.
       </p>
       <label for="toggle-text-1" class="label-1 text-blue-500 hover:underline cursor-pointer"></label>
       <div class="text-right">
@@ -76,7 +76,7 @@ to surpass himself and give his best. (Translated)
     <div class="relative z-10">
       <input type="checkbox" id="toggle-text-2" class="hidden">
       <p class="text-gray-700 dark:text-gray-100/75 mb-4 italic text-lg leading-relaxed truncate-text-2" id="recommendation-text-2">
-Juan is a creative genius, eager to take the lead and contribute new ideas and solutions. <br> It has always been a pleasure to work with him. (Translated)
+Juan is a creative genius, eager to take the lead and contribute new ideas and solutions. <br> It has always been a pleasure to work with him.
       </p>
       <label for="toggle-text-2" class="label-2 text-blue-500 hover:underline cursor-pointer"></label>
       <div class="text-right">
@@ -91,7 +91,7 @@ Juan is a creative genius, eager to take the lead and contribute new ideas and s
       <p class="text-gray-700 dark:text-gray-100/75 mb-4 italic text-lg leading-relaxed truncate-text-3" id="recommendation-text-3">
 Juan is creative and insightful. His ability to generate ideas and execute them is innate.<br> <br>
 He is an incredible professional, very concerned with maintaining excellent relationships with his collaborators and clients. 
-We worked hand in hand on Social Media campaigns and lead generation with excellent results. (Translated)      </p>
+We worked hand in hand on Social Media campaigns and lead generation with excellent results.      </p>
       <label for="toggle-text-3" class="label-3 text-blue-500 hover:underline cursor-pointer"></label>
       <div class="text-right">
         <p class="font-semibold text-lg text-gray-800 dark:text-gray-100">Sara Guiral</p>
