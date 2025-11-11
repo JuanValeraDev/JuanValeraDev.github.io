@@ -14,12 +14,12 @@
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Languages</h3>
-        <p class="text-gray-600 dark:text-gray-200">TypeScript, JavaScript, Java, Kotlin</p>
+        <p class="text-gray-600 dark:text-gray-200">TypeScript, JavaScript, Kotlin</p>
       </div>
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Databases</h3>
-        <p class="text-gray-600 dark:text-gray-200">PostgreSQL, Supabase, SQL Manager, MongoDB, Firebase</p>
+        <p class="text-gray-600 dark:text-gray-200">PostgreSQL, Supabase, MongoDB</p>
       </div>
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
@@ -29,12 +29,12 @@
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Technologies & Platforms</h3>
-        <p class="text-gray-600 dark:text-gray-200">Vercel, Render, Open API, Netlify</p>
+        <p class="text-gray-600 dark:text-gray-200">MCPs, GitHub Copilot, Open API </p>
       </div>
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Methodologies & Best Practices</h3>
-        <p class="text-gray-600 dark:text-gray-200">Agile/Scrum, Testing, Clean Code, SOLID</p>
+        <p class="text-gray-600 dark:text-gray-200">Agile/Scrum, Testing, Clean Code</p>
       </div>
     </div>
   </div>
