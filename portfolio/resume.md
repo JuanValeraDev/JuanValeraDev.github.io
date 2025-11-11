@@ -9,27 +9,27 @@
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Frameworks</h3>
-        <p class="text-gray-600 dark:text-gray-200">React, Jetpack Compose, Servoy</p>
+        <p class="text-gray-600 dark:text-gray-200">React, Tanstack Start, Angular</p>
       </div>
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Languages</h3>
-        <p class="text-gray-600 dark:text-gray-200">JavaScript, TypeScript, Java, Kotlin</p>
+        <p class="text-gray-600 dark:text-gray-200">TypeScript, JavaScript, Java, Kotlin</p>
       </div>
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Databases</h3>
-        <p class="text-gray-600 dark:text-gray-200">Supabase, SQL Manager, MongoDB, Firebase</p>
+        <p class="text-gray-600 dark:text-gray-200">PostgreSQL, Supabase, SQL Manager, MongoDB, Firebase</p>
       </div>
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Tools & Environments</h3>
-        <p class="text-gray-600 dark:text-gray-200">GitHub, Datadog, Jira, Docker, ESLint</p>
+        <p class="text-gray-600 dark:text-gray-200">GitLab, YouTrack, Docker, Biome</p>
       </div>
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Technologies & Platforms</h3>
-        <p class="text-gray-600 dark:text-gray-200">Vercel, Render, Gemini API, Netlify, AWS S3</p>
+        <p class="text-gray-600 dark:text-gray-200">Vercel, Render, Open API, Netlify</p>
       </div>
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
