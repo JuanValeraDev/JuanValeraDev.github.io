@@ -9,7 +9,7 @@
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-2xl mb-3">Frameworks</h3>
-        <p class="text-gray-600 dark:text-gray-200">React, Tanstack Start, Angular</p>
+        <p class="text-gray-600 dark:text-gray-200">React, Angular, Tanstack Start</p>
       </div>
       <!-- Card -->
       <div class="bg-white dark:bg-zinc-700 p-6 rounded-2xl shadow-lg text-center rounded-lg">
